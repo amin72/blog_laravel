@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/amin/workspace/web/laravel/lsapp/resources/views/posts/show.blade.php</file>
+            <file>file:/home/amin/workspace/web/laravel/lsapp/resources/views/posts/edit.blade.php</file>
+            <file>file:/home/amin/workspace/web/laravel/lsapp/resources/views/posts/index.blade.php</file>
+            <file>file:/home/amin/workspace/web/laravel/lsapp/app/Http/Controllers/PostsController.php</file>
+            <file>file:/home/amin/workspace/web/laravel/lsapp/resources/views/dashboard.blade.php</file>
+            <file>file:/home/amin/workspace/web/laravel/lsapp/resources/views/posts/create.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
